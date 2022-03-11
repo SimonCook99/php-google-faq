@@ -61,3 +61,7 @@ main .faq-container{
 main .faq-container h1{
     margin: 30px 0px;
 }
+
+.faq-container a {
+    text-decoration: none;
+}
